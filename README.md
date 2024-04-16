@@ -16,3 +16,6 @@ This also affects the tourism business, such as hotel and train. This applicatio
 ## Technologies Used
 - Android Studio (Java)
 - Admin Panel (PHP)
+
+## PDF Link
+Link: https://drive.google.com/drive/folders/1iwiFaHRkQcPJxB-EyRfzhLL6yyZ-MniW?usp=sharing
